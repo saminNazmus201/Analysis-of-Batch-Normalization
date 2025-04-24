@@ -1,1 +1,1 @@
-# CSE465_AZK
+# Analysis-of-Batch-Normalization
